@@ -38,8 +38,7 @@ output/
 events.out.tfevents.*
 tensorboard/
 
-# ── 数据集图片 (大文件，上传到 HuggingFace) ─────────────
-date/coco/images/
+# ── 数据集图片 (已上传到 GitHub) ─────────────────────────
 
 # ── OS 杂项 ─────────────────────────────────────────────
 .DS_Store
